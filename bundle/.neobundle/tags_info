@@ -1,3 +1,13 @@
+AutoComplPop
+auto-pairs
+ctrlp.vim
+minibufexpl.vim
 neobundle.vim
 nerdtree
+pycscope
+tagbar
+tlib_vim
+vim-addon-mw-utils
+vim-airline
+vim-snipmate
 vimproc

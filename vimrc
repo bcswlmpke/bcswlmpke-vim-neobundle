@@ -16,6 +16,18 @@ NeoBundle 'Shougo/vimproc'
 
 "Todo
 NeoBundle "scrooloose/nerdtree"
+NeoBundle "majutsushi/tagbar"
+NeoBundle "portante/pycscope"
+NeoBundle "kien/ctrlp.vim"
+
+NeoBundle "MarcWeber/vim-addon-mw-utils"
+NeoBundle "tomtom/tlib_vim"
+NeoBundle "garbas/vim-snipmate"
+
+NeoBundle "vim-scripts/AutoComplPop"
+NeoBundle "fholgado/minibufexpl.vim"
+NeoBundle "bling/vim-airline"
+NeoBundle "jiangmiao/auto-pairs"
 
 """ settings
 filetype plugin indent on     " Required!
