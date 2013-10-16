@@ -1,0 +1,2 @@
+2.0
+{'vimproc': {'checked_time': 1381930244, 'installed_uri': 'https://github.com/Shougo/vimproc.git', 'installed_path': '/Users/hank/.vim/bundle/vimproc', 'updated_time': '1381639133'}, 'nerdtree': {'checked_time': 1381930244, 'installed_uri': 'https://github.com/scrooloose/nerdtree.git', 'installed_path': '/Users/hank/.vim/bundle/nerdtree', 'updated_time': '1368691374'}, 'neobundle.vim': {'checked_time': 1381930229, 'installed_uri': 'https://github.com/Shougo/neobundle.vim.git', 'installed_path': '/Users/hank/.vim/bundle/neobundle.vim', 'updated_time': 1381930229}}
